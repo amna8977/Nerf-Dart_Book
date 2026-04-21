@@ -7,7 +7,7 @@ The goal was to create something that resembles a regular hardcover book externa
 __________
 # The Design
 
-My model for the book can be found in Alex Rider: The Gadgets, shown below, but as it turns out, many of these materials cannot be accessed by the general public. So, I am working on my own blueprints
+My model for the book can be found in Alex Rider: The Gadgets, shown below, but as it turns out, many of these materials are nonexistent, but in the pages of a book. So, I am working on my own blueprints
 
 <img width="1467" height="837" alt="image" src="https://github.com/user-attachments/assets/67a83850-d93e-474c-ab7f-b8dedb8339b3" />
 

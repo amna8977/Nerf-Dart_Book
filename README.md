@@ -1,4 +1,4 @@
-# Stun-Dart Book
+# Nerf-Dart Book
 I started this project because I really like the Alex Rider series—especially Point Blank—and the gadgets in the books are just really fun ideas. The stun dart book was always my favorite gadget, so I wanted to try making my own version of it for the Hack Club's Jackpot! Hack-a-thon.
 
 Right now, this is still a work in progress. I plan to build a safe model that looks like a normal hardcover book but can launch foam darts (like Nerf darts) as a harmless way to imitate the original concept. The focus is on keeping it safe, simple, and functional rather than making anything dangerous.
